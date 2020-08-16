@@ -31,10 +31,6 @@ export async function getData() {
         });
         resolve(sampleData);
       })
-      // .then((saData) => {
-      //   res.statusCode = 200;
-      //   res.json(saData);
-      // })
       .catch((error) => {
         console.log(error);
       });

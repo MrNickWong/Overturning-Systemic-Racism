@@ -1,0 +1,17 @@
+{
+  "name": "dvrzyrc-l245lvk",
+  "hash": "z3zCOkdqhg0d9Pam3auG/HQT5WHpvvaJ9DuuAc1aPX8=",
+  "description": "API Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Volumes/Data/Projects/the-lucky-country/.serverless_nextjs/api-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::716068299501:role/dvrzyrc-ragklig"
+  },
+  "arn": "arn:aws:lambda:us-east-1:716068299501:function:dvrzyrc-l245lvk",
+  "region": "us-east-1"
+}

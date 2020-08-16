@@ -1,0 +1,17 @@
+{
+  "name": "dvrzyrc-r076rgi",
+  "hash": "0opVPxT3Z8DqFhaVq0Ujg+FMZNJSAde7cNe6KoCGKsA=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Volumes/Data/Projects/the-lucky-country/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::716068299501:role/dvrzyrc-v8v4amo"
+  },
+  "arn": "arn:aws:lambda:us-east-1:716068299501:function:dvrzyrc-r076rgi",
+  "region": "us-east-1"
+}

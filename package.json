@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@aws-sdk/client-comprehend-node": "0.1.0-preview.2",
+    "aws-sdk": "^2.734.0",
     "next": "9.5.2",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-typist": "^2.0.5"
   }
 }

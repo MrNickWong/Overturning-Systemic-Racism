@@ -1,0 +1,12 @@
+{
+  "name": "dvrzyrc-v8v4amo",
+  "arn": "arn:aws:iam::716068299501:role/dvrzyrc-v8v4amo",
+  "service": [
+    "edgelambda.amazonaws.com",
+    "lambda.amazonaws.com"
+  ],
+  "policy": {
+    "arn": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+  },
+  "region": "us-east-1"
+}

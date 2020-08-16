@@ -1,0 +1,13 @@
+{
+  "region": "us-east-1",
+  "privateZone": false,
+  "domain": "nke.net",
+  "subdomains": [
+    {
+      "domain": "the-lucky-country.nke.net",
+      "distributionId": "EDY7FMO7PVJE7",
+      "url": "https://d2el5w45wzn665.cloudfront.net",
+      "type": "awsCloudFront"
+    }
+  ]
+}

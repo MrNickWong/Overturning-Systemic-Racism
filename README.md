@@ -20,6 +20,12 @@ Links to datasets
 - https://electionspeeches.moadoph.gov.au/explore
 - https://github.com/wragge/pm-transcripts
 
+# Project Management and Design
+
+![trello ](https://the-lucky-country.nke.net/trello.jpg)
+
+![figma](https://the-lucky-country.nke.net/figma.jpg)
+
 # Copyright
 
 This project is licensed under the terms of the MIT license - mit

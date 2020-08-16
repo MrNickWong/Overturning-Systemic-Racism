@@ -1,4 +1,4 @@
-![Black life matters ](https://the-lucky-country.nke.net/image/logo.jpg)
+![Black life matters ](https://the-lucky-country.nke.net/logo.jpg)
 
 # Project Description
 
@@ -15,9 +15,10 @@ The Lucky Country is a text based digital artwork examining Australia's collecti
 The Lucky Country uses sentiment analysis against the language of our nation’s leaders, through scraping politicians’ speeches to identify language associated with race and racism alongside the correlating year of release. This sentiment analysis bolds key phrases within presented quotes – highlighting themes for viewers to dwell upon. Through this The Lucky Country encourages all of us fortunate to call Australia home, to consider the prevalence of themes of race and racism in the speeches of our nation’s leaders and what this means for our society as a whole. Do the mentions of race indicate a persistence of racism in our culture? Do the mouths of our national representatives truly represent where we want to head as a community and society? How can we make Australia The Lucky Country for all?
 
 Links to datasets
-//https://glam-workbench.github.io/trove-journals/#politicians-talking-about-immigrants-and-refugees
-//https://electionspeeches.moadoph.gov.au/explore
-//https://github.com/wragge/pm-transcripts
+
+- https://glam-workbench.github.io/trove-journals/#politicians-talking-about-immigrants-and-refugees
+- https://electionspeeches.moadoph.gov.au/explore
+- https://github.com/wragge/pm-transcripts
 
 # Copyright
 

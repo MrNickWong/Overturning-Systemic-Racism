@@ -1,3 +1,8 @@
+//sample dataset manually extrated from
+//https://glam-workbench.github.io/trove-journals/#politicians-talking-about-immigrants-and-refugees
+//https://electionspeeches.moadoph.gov.au/explore
+//https://github.com/wragge/pm-transcripts
+
 export default [
   {
     dataSetURL:
